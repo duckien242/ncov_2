@@ -1,0 +1,16 @@
+purpose	filter	value	filter2	value2	sample_size	start	end
+focus	division	Connecticut			9999	10/15/21	
+context	submitting_lab	Grubaugh Lab - Yale School of Public Health	country	USA	290		5/31/21
+context	pango_lineage	B.1.617.2			10		4/30/21
+context	pango_lineage	AY.1			10		4/30/21
+context	pango_lineage	AY.2			10		4/30/21
+context	pango_lineage	AY.3			10		4/30/21
+context	pango_lineage	B.1.1.7			10		4/30/21
+context	pango_lineage	B.1.351			10		4/30/21
+context	pango_lineage	B.1.427			10		4/30/21
+context	pango_lineage	B.1.429			10		4/30/21
+context	pango_lineage	B.1.525			10		4/30/21
+context	pango_lineage	B.1.526			10		4/30/21
+context	pango_lineage	P.1			10		4/30/21
+context	pango_lineage	B.1.617.1			10		4/30/21
+context	pango_lineage	C.37			10		4/30/21

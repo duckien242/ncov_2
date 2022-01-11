@@ -1,0 +1,40 @@
+type	area	subarea	latitude	longitude	members
+region	Oceania	Oceania	-32.395085	152.518443	Australia, Christmas Island, Cocos, Heard Island and McDonald Islands, New Zealand, Norfolk Island, Melanesia, Fiji, New Caledonia, Papua New Guinea, Solomon Islands, Vanuatu, Micronesia, Guam, Kiribati, Marshall Islands, Micronesia, Nauru, Northern Mariana Islands, Palau, Polynesia, American Samoa, Cook Islands, French Polynesia, Niue, Pitcairn Islands, Samoa, Tokelau, Tonga, Tuvalu, Wallis and Futuna
+region	Asia	Eastern Asia	32.974946	103.95701	China, Hong Kong, Macau, Japan, Mongolia, North Korea, South Korea, Taiwan
+region	Asia	Southeastern Asia	3.96578	108.343168	Brunei, Brunei Darussalam, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Singapore, Thailand, Timor-Leste, Vietnam, Viet Nam
+region	Asia	Southern Asia	27.961237	71.898465	Afghanistan, Bangladesh, Bhutan, India, Iran, Maldives, Nepal, Pakistan, Sri Lanka
+region	Asia	Central Asia	43.735259	64.932677	Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan
+region	Asia	Western Asia	32.154283	39.200932	Armenia, Azerbaijan, Bahrain, Cyprus, Georgia, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Qatar, Saudi Arabia, State of Palestine, Syria, Turkey, United Arab Emirates, Yemen
+region	Europe	Northern Europe	60.29676	-1.280624	Åland Islands, Denmark, Estonia, Faroe Islands, Finland, Guernsey, Iceland, Ireland, Isle of Man, Jersey, Latvia, Lithuania, Norway, Sark, Svalbard and Jan Mayen, Sweden, United Kingdom
+region	Europe	Western Europe	49.469435	6.367516	Austria, Belgium, France, Germany, Liechtenstein, Luxembourg, Monaco, Netherlands, Switzerland
+region	Europe	Eastern Europe	52.111961	31.781771	Belarus, Bulgaria, Czechia, Czech Republic, Hungary, Moldova, Poland, Romania, Russia, Slovakia, Ukraine
+region	Europe	Southern Europe	41.315616	9.202824	Albania, Andorra, Bosnia and Herzegovina, Croatia, Gibraltar, Greece, Italy, Malta, Montenegro, North Macedonia, Portugal, San Marino, Serbia, Slovenia, Spain, Holy See
+region	Africa	Northern Africa	27.568083	9.819491	Algeria, Egypt, Libya, Morocco, Sudan, Tunisia, Western Sahara
+region	Africa	Western Africa	11.900251	2.404138	Benin, Burkina Faso, Cabo Verde, Côte dIvoire, Côte d'Ivoire, Ivory Coast, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Nigeria, Saint Helena, Ascension and Tristan da Cunha, Senegal, Sierra Leone, Togo
+region	Africa	Middle Africa	-2.494433	21.016337	Angola, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo, Republic of the Congo, Equatorial Guinea, Gabon, São Tomé and Príncipe, Sao Tome and Principe
+region	Africa	Eastern Africa	-2.139111	36.089406	Burundi, Comoros, Djibouti, Eritrea, Ethiopia, Kenya, Madagascar, Malawi, Mauritius, Mayotte, Mozambique, Réunion, Rwanda, Seychelles, Somalia, South Sudan, Tanzania, Uganda, Zambia, Zimbabwe
+region	Africa	Southern Africa	-25.274833	23.448701	Botswana, Eswatini, Eswatini (Swaziland), Lesotho, Namibia, South Africa
+region	America	Central America	17.136938	-93.86742	Belize, Costa Rica, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama
+region	America	South America	-20.172215	-58.168541	Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Falkland Islands, French Guiana, Guyana, Paraguay, Peru, South Georgia and the South Sandwich Islands, Suriname, Uruguay, Venezuela
+region	America	Caribbean	18.087038	-67.891559	Anguilla, Antigua and Barbuda, Aruba, Bahamas, Barbados, Bonaire, Sint Eustatius, St Eustatius, Saba, British Virgin Islands, Cayman Islands, Cuba, Curacao, Dominica, Dominican Republic, Grenada, Guadeloupe, Haiti, Jamaica, Martinique, Montserrat, Puerto Rico, Saint Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin, Saint Vincent and the Grenadines, Sint Maarten, Trinidad and Tobago, Turks and Caicos Islands, United States Virgin Islands, US Virgin Islands
+region	America	North America	49.384464	-95.153337	Bermuda, Canada, Greenland, Saint Pierre and Miquelon, United States of America, USA
+country	USA	USA-West	41.993719	-114.041724	Hawaii, Alaska, Washington, Oregon, California, Idaho, Montana, Wyoming, Nevada, Utah, Colorado
+country	USA	USA-Midwest	42.508301	-90.640926	North Dakota, South Dakota, Minnesota, Nebraska, Iowa, Kansas, Missouri, Wisconsin, Michigan, Illinois, Indiana, Ohio
+country	USA	USA-Southeast	35.00066339	-83.10861305	Arkansas, Louisiana, Kentucky, Tennessee, Mississippi, Alabama, West Virginia, Virginia, North Carolina, South Carolina, Georgia, Florida
+country	USA	USA-Southwest	34.28873409	-103.0437656	Arizona, New Mexico, Texas, Oklahoma
+country	USA	USA-Northeast	42.049638	-73.487314	Maryland, Delaware, Washington DC, District of Columbia, New York, New Jersey, Pennsylvania, Vermont, New Hampshire, Maine, Massachusetts, Connecticut, Rhode Island
+country	USA	Puerto Rico	18.235853	-66.522056	Puerto Rico
+country	USA	US Virgin Islands	17.7289564	-64.75901598	Virgin Islands, US Virgin Islands, United States Virgin Islands
+country	USA	Guam	13.4501257	144.757551	Guam
+country	France	Martinique	14.666667	-61	Martinique
+country	France	French Guiana	4	-53	French Guiana
+country	USA	Northern Mariana Islands	14.1490205	145.2134525	Northern Mariana Islands
+country	United Kingdom	Cayman Islands	19.315109	-81.267244	Cayman Islands
+country	United Kingdom	British Virgin Islands	18.430429	-64.577	British Virgin Islands
+country	Netherlands	Sint Eustatius	17.489	-62.97	Sint Eustatius, St Eustatius
+country	United Kingdom	Montserrat	16.734	-62.1922	Montserrat
+country	United Kingdom	Turks and Caicos Islands	21.75566	-71.757	Turks and Caicos Islands, Turks and Caicos
+country	United Kingdom	Anguilla	18.201481	-63.06589	Anguilla
+country	France	Reunion	-21.114444	55.5325	Reunion
+country	France	Mayotte	-12.843056	45.138333	Mayotte
+country	France	Wallis and Futuna	-13.283333	-176.183333	Wallis and Futuna, Wallis, Futuna

@@ -1,0 +1,815 @@
+region	Oceania	-32.395085	152.518443
+region	Eastern Asia	32.974946	103.95701
+region	Southeastern Asia	3.96578	108.343168
+region	Southern Asia	27.961237	71.898465
+region	Central Asia	43.735259	64.932677
+region	Western Asia	32.154283	39.200932
+region	Northern Europe	60.29676	-1.280624
+region	Western Europe	49.469435	6.367516
+region	Eastern Europe	52.111961	31.781771
+region	Southern Europe	41.315616	9.202824
+region	Northern Africa	27.568083	9.819491
+region	Western Africa	11.900251	2.404138
+region	Middle Africa	-2.494433	21.016337
+region	Eastern Africa	-2.139111	36.089406
+region	Southern Africa	-25.274833	23.448701
+region	Central America	17.136938	-93.86742
+region	South America	-20.172215	-58.168541
+region	Caribbean	18.087038	-67.891559
+region	North America	49.384464	-95.153337
+
+country	USA-West	41.993719	-114.041724
+country	USA-Midwest	42.508301	-90.640926
+country	USA-Southeast	35.00066339	-83.10861305
+country	USA-Southwest	34.28873409	-103.0437656
+country	USA-Northeast	42.049638	-73.487314
+country	USA	39.7837304	-100.4458825
+country	Australia	-24.7761086	134.755
+country	Austria	47.2	13.2
+country	Bahrain	26.1551249	50.5344606
+country	China	35.000074	104.999927
+country	Belgium	50.6402809	4.6667145
+country	Botswana	-23.1681782	24.5928742
+country	Brazil	-10.3333333	-53.2
+country	Cambodia	13.5066394	104.869423
+country	Canada	61.0666922	-107.991707
+country	Colombia	2.8894434	-73.783892
+country	Denmark	55.670249	10.3333283
+country	Ecuador	-1.3397668	-79.3666965
+country	United Kingdom	54.7023545	-3.2765753
+country	Finland	63.2467777	25.9209164
+country	France	46.603354	1.8883335
+country	Germany	51.0834196	10.4234469
+country	Hong Kong	22.2793278	114.1628131
+country	Iceland	64.9841821	-18.1059013
+country	India	22.3511148	78.6677428
+country	Indonesia	-2.4833826	117.8902853
+country	Iran	32.6475314	54.5643516
+country	Ireland	52.865196	-7.9794599
+country	Israel	31.5313113	34.8667654
+country	Italy	42.6384261	12.674297
+country	Japan	36.5748441	139.2394179
+country	Jordan	31.1667049	36.941628
+country	Latvia	56.8406494	24.7537645
+country	Lithuania	55.3500003	23.7499997
+country	Luxembourg	49.8158683	6.1296751
+country	Malaysia	4.5693754	102.2656823
+country	Mozambique	-19.302233	34.9144977
+country	Netherlands	52.5001698	5.7480821
+country	Norway	60.5000209	9.0999715
+country	Oman	21.0000287	57.0036901
+country	Philippines	12.7503486	122.7312101
+country	Portugal	40.0332629	-7.8896263
+country	Russia	64.6863136	97.7453061
+country	Singapore	1.357107	103.8194992
+country	Slovakia	48.7411522	19.4528646
+country	South Africa	-28.8166236	24.991639
+country	South Korea	36.638392	127.6961188
+country	Spain	39.3260685	-4.8379791
+country	Sweden	59.6749712	14.5208584
+country	Switzerland	46.7985624	8.2319736
+country	Thailand	14.8971921	100.83273
+country	Turkey	38.9597594	34.9249653
+country	United Arab Emirates	24.0002488	53.9994829
+country	Uruguay	-32.8755548	-56.0201525
+country	Zambia	-14.5186239	27.5599164
+country	Costa Rica	10.2735633	-84.0739102
+country	Czech Republic	49.8167003	15.4749544
+country	Ghana	8.0300284	-1.0800271
+country	Nigeria	9.6000359	7.9999721
+country	Romania	45.9852129	24.6859225
+country	Sri Lanka	7.5554942	80.7137847
+country	North America	51.0000002	-109.0000002
+country	Ukraine	49.4871968	31.2718321
+country	Vietnam	13.2904027	108.4265113
+country	Croatia	45.5643442	17.0118954
+country	Mexico	22.5000485	-100.0000375
+country	Peru	-6.8699697	-75.0458515
+country	Slovenia	46.14903455	14.62632575
+country	Palestine	31.94696655	35.27386547
+country	Serbia	44.1534121	20.55144
+country	Sint Maarten	52.7736657	4.7448352
+country	Zimbabwe	-19.01688	29.35365016
+country	Dominican Republic	19.28131815	-70.03590683
+country	Lesotho	-29.6039267	28.3350193
+country	Senegal	14.46517725	-14.76534096
+country	Greece	38.9953683	21.9877132
+country	New Zealand	-41.5000831	172.8344077
+country	Panama	8.559559	-81.1308434
+country	Saudi Arabia	25.6242618	42.3528328
+country	Angola	-11.8775768	17.5691241
+country	Antigua and Barbuda	17.2234721	-61.9554608
+country	Argentina	-34.9964963	-64.9672817
+country	Armenia	40.7696272	44.6736646
+country	Aruba	12.4902998	-69.9609842
+country	Bahamas	24.7736546	-78.0000547
+country	Barbados	13.1500331	-59.5250305
+country	Belize	16.8259793	-88.7600927
+country	Bermuda	32.3018217	-64.7603583
+country	Bulgaria	42.6073975	25.4856617
+country	Chile	-31.7613365	-71.3187697
+country	Cuba	23.0131338	-80.8328748
+country	Dominica	19.0974031	-70.3028026
+country	Eswatini	-26.5624806	31.3991317
+country	Guatemala	15.6356088	-89.8988087
+country	Guyana	4.8417097	-58.6416891
+country	Haiti	19.1399952	-72.3570972
+country	Honduras	15.2572432	-86.0755145
+country	Jamaica	18.1850507	-77.3947693
+country	Kenya	1.4419683	38.4313975
+country	Malawi	-13.2687204	33.9301963
+country	Paraguay	-23.3165935	-58.1693445
+country	Poland	52.215933	19.134422
+country	Qatar	25.3336984	51.2295295
+country	Saint Kitts and Nevis	17.250512	-62.6725973
+country	Saint Lucia	13.8250489	-60.975036
+country	Saint Martin	48.5683066	6.7539988
+country	Saint Vincent and the Grenadines	12.90447	-61.2765569
+country	Suriname	4.1413025	-56.0771187
+country	Taiwan	23.9739374	120.9820179
+country	Trinidad and Tobago	10.8677845	-60.9821067
+country	Venezuela	8.0018709	-66.1109318
+country	US Virgin Islands	17.7289564	-64.75901598
+country	Puerto Rico	18.235853	-66.522056
+country	Bonaire	12.167	-68.29096144
+country	Curacao	12.1845	-68.9640875
+country	Democratic Republic of the Congo	-2.9814344	23.8222636
+country	Niger	17.7356214	9.3238432
+country	South Sudan	7.8699431	29.6667897
+country	Uganda	1.5333554	32.2166578
+country	Guadeloupe	16.23051025	-61.68712602
+country	Pakistan	30.3308401	71.247499
+country	Togo	8.7800265	1.0199765
+country	Guam	13.4501257	144.757551
+country	Martinique	14.666667	-61
+country	French Guiana	4	-53
+country	Northern Mariana Islands	14.1490205	145.2134525
+country	Cayman Islands	19.315109	-81.267244
+country	British Virgin Islands	18.430429	-64.577
+country	Sint Eustatius	17.489	-62.97
+country	Montserrat	16.734	-62.1922
+country	Turks and Caicos Islands	21.75566	-71.757
+country	Anguilla	18.201481	-63.06589
+country	Reunion	-21.114444	55.5325
+country	Mayotte	-12.843056	45.138333
+country	Wallis and Futuna	-13.283333	-176.183333
+country	Grenada	12.1360374	-61.6904045
+
+division	Connecticut	41.6500201	-72.7342163
+division	New Jersey	40.0757384	-74.4041622
+division	New York	43.1561681	-75.8449946
+division	Texas	29.8884765	-97.94479886
+division	Arizona	34.395342	-111.763275
+division	Illinois	41.8908132	-87.6277338
+division	Tennessee	35.1206029	-89.9392477
+division	Massachusetts	42.358796	-71.0577937
+division	Arkansas	33.9582866	-91.8401252
+division	North Carolina	35.6729639	-79.0392919
+division	New Hampshire	43.4849133	-71.6553992
+division	Rhode Island	41.7962409	-71.5992372
+division	California	34.056324	-117.1817339
+division	Maine	45.709097	-68.8590201
+division	Florida	27.7567667	-81.4639835
+division	Wisconsin	44.4308975	-89.6884637
+division	Utah	37.6547917	-113.0856667
+division	New Haven	41.29843435	-72.93102343
+division	Maryland	39.5162234	-76.9382069
+division	Australia	-24.7761086	134.755
+division	Austria	47.2	13.2
+division	Bahrain	26.1551249	50.5344606
+division	China	35.000074	104.999927
+division	Belgium	50.6402809	4.6667145
+division	Botswana	-23.1681782	24.5928742
+division	Brazil	-10.3333333	-53.2
+division	Cambodia	13.5066394	104.869423
+division	Alberta	55.001251	-115.002136
+division	British Columbia	55.001251	-125.002441
+division	Ontario	50.000678	-86.000977
+division	Manitoba	55.001251	-97.001038
+division	New Brunswick	46.500283	-66.750183
+division	Nova Scotia	45.1960403	-63.1653789
+division	Quebec	52.4760892	-71.8258668
+division	Canada	61.0666922	-107.991707
+division	Colombia	2.8894434	-73.783892
+division	Denmark	55.670249	10.3333283
+division	Ecuador	-1.3397668	-79.3666965
+division	England	52.5310214	-1.2649062
+division	Finland	63.2467777	25.9209164
+division	France	46.603354	1.8883335
+division	Georgia	33.7533994	-84.3853053
+division	Germany	51.0834196	10.4234469
+division	Hong Kong	22.2793278	114.1628131
+division	Iceland	64.9841821	-18.1059013
+division	India	22.3511148	78.6677428
+division	Indonesia	-2.4833826	117.8902853
+division	Iran	32.6475314	54.5643516
+division	Ireland	52.865196	-7.9794599
+division	Israel	31.5313113	34.8667654
+division	Italy	42.6384261	12.674297
+division	Japan	36.5748441	139.2394179
+division	Jordan	31.1667049	36.941628
+division	Latvia	56.8406494	24.7537645
+division	Lithuania	55.3500003	23.7499997
+division	Luxembourg	49.8158683	6.1296751
+division	Malaysia	4.5693754	102.2656823
+division	Mozambique	-19.302233	34.9144977
+division	Netherlands	52.5001698	5.7480821
+division	Northern Ireland	54.5859836	-6.9591554
+division	Norway	60.5000209	9.0999715
+division	Oman	21.0000287	57.0036901
+division	Philippines	12.7503486	122.7312101
+division	Portugal	40.0332629	-7.8896263
+division	Puerto Rico	18.235853	-66.522056
+division	Russia	64.6863136	97.7453061
+division	Scotland	56.7861112	-4.1140518
+division	Singapore	1.357107	103.8194992
+division	Slovakia	48.7411522	19.4528646
+division	South Africa	-28.8166236	24.991639
+division	South Korea	36.638392	127.6961188
+division	Spain	39.3260685	-4.8379791
+division	Sweden	59.6749712	14.5208584
+division	Switzerland	46.7985624	8.2319736
+division	Thailand	14.8971921	100.83273
+division	Turkey	38.9597594	34.9249653
+division	Alaska	61.5840639	-149.429444
+division	Alabama	34.785415	-87.619021
+division	Colorado	38.7251776	-105.607716
+division	Washington DC	38.912708	-77.009223
+division	Delaware	38.6920451	-75.4013315
+division	Hawaii	21.40569055	-157.8144458
+division	Iowa	42.070703	-90.6443905
+division	Indiana	39.768534	-86.158011
+division	Kansas	37.8222598	-96.8784257
+division	Kentucky	37.5726028	-85.1551411
+division	Louisiana	30.8703881	-92.007126
+division	Michigan	42.120868	-85.526382
+division	Minnesota	45.9896587	-94.6113288
+division	Missouri	38.7604815	-92.5617875
+division	Ohio	41.8924345	-87.6277656
+division	Montana	47.1219096	-104.6644933
+division	Nebraska	40.276199	-96.710805
+division	New Mexico	32.8684408	-108.5746086
+division	Nevada	39.5158825	-116.8537227
+division	Oklahoma	34.9550817	-97.2684063
+division	Oregon	43.9792797	-120.737257
+division	Pennsylvania	39.9593026	-75.200498
+division	South Carolina	33.6874388	-80.4363743
+division	Virginia	37.1232245	-78.4927721
+division	Washington	47.2868352	-120.212613
+division	West Virginia	38.4758406	-80.8408415
+division	Wyoming	41.145138	-104.7689332
+division	USA	39.7837304	-100.4458825
+division	United Arab Emirates	24.0002488	53.9994829
+division	Uruguay	-32.8755548	-56.0201525
+division	Wales	52.2928116	-3.73893
+division	Zambia	-14.5186239	27.5599164
+division	Newfoundland and Labrador	53.8217327	-61.2295532
+division	Costa Rica	10.2735633	-84.0739102
+division	Czech Republic	49.8167003	15.4749544
+division	Ghana	8.0300284	-1.0800271
+division	Nigeria	9.6000359	7.9999721
+division	Romania	45.9852129	24.6859225
+division	Sri Lanka	7.5554942	80.7137847
+division	Mississippi	33.4549304	-88.7859584
+division	Vermont	44.5990718	-72.5002608
+division	Ukraine	49.4871968	31.2718321
+division	Vietnam	13.2904027	108.4265113
+division	Croatia	45.5643442	17.0118954
+division	Mexico	22.5000485	-100.0000375
+division	Peru	-6.8699697	-75.0458515
+division	Slovenia	46.14903455	14.62632575
+division	North Dakota	46.87582885	-96.92812869
+division	Palestine	31.94696655	35.27386547
+division	Serbia	44.1534121	20.55144
+division	Sint Maarten	52.7736657	4.7448352
+division	Northern Mariana Islands	14.1490205	145.2134525
+division	Zimbabwe	-19.01688	29.35365016
+division	Dominican Republic	19.28131815	-70.03590683
+division	Lesotho	-29.6039267	28.3350193
+division	Senegal	14.46517725	-14.76534096
+division	Greece	38.9953683	21.9877132
+division	New Zealand	-41.5000831	172.8344077
+division	Panama	8.559559	-81.1308434
+division	Saudi Arabia	25.6242618	42.3528328
+division	Angola	-11.8775768	17.5691241
+division	Antigua and Barbuda	17.2234721	-61.9554608
+division	Argentina	-34.9964963	-64.9672817
+division	Armenia	40.7696272	44.6736646
+division	Aruba	12.4902998	-69.9609842
+division	Bahamas	24.7736546	-78.0000547
+division	Barbados	13.1500331	-59.5250305
+division	Belize	16.8259793	-88.7600927
+division	Bermuda	32.3018217	-64.7603583
+division	Bulgaria	42.6073975	25.4856617
+division	Saskatchewan	55.5321257	-106.1412243
+division	Chile	-31.7613365	-71.3187697
+division	Cuba	23.0131338	-80.8328748
+division	Dominica	19.0974031	-70.3028026
+division	Eswatini	-26.5624806	31.3991317
+division	Guatemala	15.6356088	-89.8988087
+division	Guyana	4.8417097	-58.6416891
+division	Haiti	19.1399952	-72.3570972
+division	Honduras	15.2572432	-86.0755145
+division	Jamaica	18.1850507	-77.3947693
+division	Kenya	1.4419683	38.4313975
+division	Malawi	-13.2687204	33.9301963
+division	Paraguay	-23.3165935	-58.1693445
+division	Poland	52.215933	19.134422
+division	Qatar	25.3336984	51.2295295
+division	Saint Kitts and Nevis	17.250512	-62.6725973
+division	Saint Lucia	13.8250489	-60.975036
+division	Saint Martin	48.5683066	6.7539988
+division	Saint Vincent and the Grenadines	12.90447	-61.2765569
+division	Suriname	4.1413025	-56.0771187
+division	Taiwan	23.9739374	120.9820179
+division	Trinidad and Tobago	10.8677845	-60.9821067
+division	Idaho	43.6447642	-114.015407
+division	Venezuela	8.0018709	-66.1109318
+division	US Virgin Islands	17.7289564	-64.75901598
+division	Bonaire	12.167	-68.29096144
+division	Curacao	12.1845	-68.9640875
+division	Democratic Republic of the Congo	-2.9814344	23.8222636
+division	Niger	17.7356214	9.3238432
+division	South Sudan	7.8699431	29.6667897
+division	Uganda	1.5333554	32.2166578
+division	Gibraltar	51.791921	-0.9022301
+division	Guadeloupe	16.23051025	-61.68712602
+division	Guam	13.4501257	144.757551
+division	Pakistan	30.3308401	71.247499
+division	Togo	8.7800265	1.0199765
+division	Virgin Islands	17.727304	-64.748327
+division	Luanda	-8.8272699	13.2439512
+division	Buenos Aires	-34.6075682	-58.4370894
+division	Western Australia	-25.2303005	121.0187246
+division	Roeselare	50.9444948	3.124765
+division	Antofagasta	-23.6463741	-70.3980033
+division	Santo Domingo	18.4801972	-69.942111
+division	Auvergne-Rhône-Alpes	45.2968119	4.6604809
+division	Hauts de France	50.1024606	2.7247515
+division	Ile de France	48.6443057	2.7537863
+division	Occitanie	43.6487851	2.3435684
+division	Provence-Alpes-Côte d'Azur	44.0580563	6.0638506
+division	Sainte-Anne	16.225685	-61.3859128
+division	Les Abymes	16.2706436	-61.5057749
+division	Basse-Terre	16.0000778	-61.7333373
+division	Métropole	7.0482412	125.5389122
+division	Saint-François	16.2532002	-61.2750706
+division	Morne À l'Eau	16.3311175	-61.4579237
+division	Baie-Mahault	16.2679458	-61.5870766
+division	Lamentin	16.2703423	-61.6303025
+division	Sainte-Rose	16.3327353	-61.698147
+division	Le Gosier	16.2072112	-61.4931309
+division	Trois-Rivières	15.9767433	-61.6441603
+division	Le Moule	16.3316709	-61.3476233
+division	Vieux Habitants	16.0593271	-61.7636981
+division	Pointe-A-Pitre	16.2408636	-61.5334077
+division	Aguascalientes	22.0000001	-102.5000001
+division	Friesland	53.0923689	5.777043
+division	Gelderland	52.1014041	5.9515701
+division	North Holland	52.7212825	4.820665
+division	Overijssel	52.4254143	6.4610611
+division	South Holland	51.9966792	4.5597397
+division	St Eustatius	17.4865252	-62.9653116
+division	Zilina	49.2234674	18.7393139
+division	British Virgin Islands	18.4024395	-64.5661642
+division	Cayman Islands	19.703182249999998	-79.9174627243246
+division	French Guiana	4.0039882	-52.999998
+division	Martinique	14.6367927	-61.01582685063731
+division	Anguilla	18.1954947	-63.0750234
+division	Victoria	-36.5986096	144.6780052
+division	Beijing	39.906217	116.3912757
+division	Kasane	-17.799239	25.156546
+division	Willemstad	12.110006949999999	-68.9370850600204
+division	Normandie	49.0677708	0.3138532
+division	Grenada	12.1360374	-61.6904045
+division	Baja California	30.0338923	-115.1425107
+division	Montserrat	16.7417041	-62.1916844
+division	Maputo	-25.966213	32.56745
+division	Groningen	53.2190652	6.5680077
+division	North Brabant	51.6017723	5.4441391
+division	Utrecht	52.080985600000005	5.12768396945229
+division	Réunion	-21.130737949999997	55.536480112992315
+division	Sint Eustatius	17.4865252	-62.9653116
+division	Podravska	46.4809178	15.745088519392077
+division	Turks and Caicos	21.7214683	-71.6201783
+
+location	Amston-Mansfield	41.74139	-72.33055
+location	Ashford-Putnam	41.90667	-71.94786
+location	Avon-Plainville	41.73374	-72.85787
+location	Bloomfield-Windsor	41.88873	-72.61482
+location	Branford-Madison	41.32118	-72.70527
+location	Bridgeport	41.18727	-73.19104
+location	Brookfield-Newtown	41.41073	-73.33584
+location	Burlington-Bristol	41.71955	-72.94915
+location	Cheshire-Wallingford	41.48691	-72.85456
+location	Colchester-Uncasville	41.53843	-72.19459
+location	Colebrook-Torrington	41.91402	-73.06821
+location	Danbury-Sherman	41.46405	-73.47903
+location	EastHartford	41.76454	-72.61682
+location	EastHaven-Northford	41.34362	-72.82195
+location	Greenwich	41.04717	-73.60591
+location	Groton-Stonington	41.4027	-71.95731
+location	Haddam-Westbrook	41.39037	-72.48461
+location	Hamden	41.38527	-72.92088
+location	Hartford	41.76862	-72.68533
+location	Hartland-Granby	41.92127	-72.87022
+location	Litchfield-Watertown	41.66913	-73.1494
+location	Lyme-NewLondon	41.35512	-72.20174
+location	Manchester	41.7821	-72.5233
+location	Meriden	41.53886	-72.79955
+location	Middletown-EastHampton	41.55814	-72.61661
+location	Milford	41.22706	-73.0631
+location	New-Haven	41.31245	-72.92539
+location	NewBritain	41.67028	-72.78829
+location	Newington-Glastonbury	41.67574	-72.60165
+location	Norwalk	41.10177	-73.4217
+location	Norwich-Voluntown	41.57241	-72.00081
+location	Prospect-Orange	41.37518	-73.03347
+location	Ridgefield-Easton	41.27618	-73.39021
+location	Salisbury-NewMilford	41.77119	-73.37159
+location	Somers-Tolland	41.91828	-72.3719
+location	Southbury-Naugatuck	41.4767	-73.12099
+location	Southington-Berlin	41.58962	-72.85217
+location	Stamford	41.08487	-73.5399
+location	Stratford	41.20217	-73.13096
+location	Suffield-Enfield	41.99664	-72.64146
+location	Trumbull-Shelton	41.30387	-73.19185
+location	Waterbury-Wolcott	41.56305	-73.02595
+location	WestHartford	41.75839	-72.74562
+location	WestHaven	41.27257	-72.96497
+location	Westport-Fairfield	41.16285	-73.28996
+location	Wilton-Darien	41.14793	-73.47296
+location	Windham-Sterling	41.71698	-72.01233
+location	Larchmont	40.9278769	-73.7517983
+location	Rye	40.9808209	-73.684294
+location	Farmingdale	40.7356738	-73.4417524
+location	Bronxville	40.9381544	-73.8320784
+location	New-York-State	43.1561681	-75.8449946
+location	Mount Vernon	40.9125815	-73.8370786
+location	Port Chester	41.0017643	-73.6656834
+location	New Rochelle	40.9115386	-73.7826363
+location	Yorktown Heights	41.2695965	-73.7752704
+location	Middlesex	41.482782	-72.556658
+location	Rhode Island	41.7962409	-71.5992372
+location	Plymouth	41.9583799	-70.6673851
+location	Suffolk	42.358796	-71.0577937
+location	Hampden	42.0640239	-72.4186602
+location	Bristol	41.7425538	-71.0856545
+location	Essex	42.6320389	-70.7828255
+location	Barnstable	41.7001132	-70.2994666
+location	Worcester	42.2761217	-71.8058232
+location	Florida	27.7567667	-81.4639835
+location	Australia	-24.7761086	134.755
+location	Bahrain	26.1551249	50.5344606
+location	Washington	47.2868352	-120.212613
+location	Belgium	50.6402809	4.6667145
+location	British Columbia	55.001251	-125.002441
+location	Manitoba	55.001251	-97.001038
+location	New Brunswick	46.500283	-66.750183
+location	Newfoundland and Labrador	53.8217327	-61.2295532
+location	Nova Scotia	45.1960403	-63.1653789
+location	Ontario	50.000678	-86.000977
+location	Quebec	52.4760892	-71.8258668
+location	Denmark	55.670249	10.3333283
+location	England	52.5310214	-1.2649062
+location	Finland	63.2467777	25.9209164
+location	France	46.603354	1.8883335
+location	Germany	51.0834196	10.4234469
+location	China	35.000074	104.999927
+location	Hong Kong	22.2793278	114.1628131
+location	Indonesia	-2.4833826	117.8902853
+location	Iran	32.6475314	54.5643516
+location	Israel	31.5313113	34.8667654
+location	Italy	42.6384261	12.674297
+location	Japan	36.5748441	139.2394179
+location	Jordan	31.1667049	36.941628
+location	Kazakhstan	47.2286086	65.2093197
+location	Malaysia	4.5693754	102.2656823
+location	Netherlands	52.5001698	5.7480821
+location	Northern Ireland	54.5859836	-6.9591554
+location	Norway	60.5000209	9.0999715
+location	Oman	21.0000287	57.0036901
+location	Portugal	40.0332629	-7.8896263
+location	Russia	64.6863136	97.7453061
+location	Scotland	56.7861112	-4.1140518
+location	Singapore	1.357107	103.8194992
+location	South Africa	-28.8166236	24.991639
+location	South Korea	36.638392	127.6961188
+location	Spain	39.3262345	-4.8380649
+location	Sri Lanka	7.5554942	80.7137847
+location	Switzerland	46.7985624	8.2319736
+location	Taiwan	23.9739374	120.9820179
+location	Thailand	14.8971921	100.83273
+location	Alaska	61.5840639	-149.429444
+location	Arizona	34.395342	-111.763275
+location	California	34.056324	-117.1817339
+location	Colorado	38.7251776	-105.607716
+location	Delaware	38.6920451	-75.4013315
+location	Georgia	33.7501687	-84.3859549
+location	Hawaii	21.40569055	-157.8144458
+location	Iowa	42.070703	-90.6443905
+location	Idaho	43.6447642	-114.015407
+location	Illinois	41.8908132	-87.6277338
+location	Indiana	39.768534	-86.158011
+location	Kansas	37.8222598	-96.8784257
+location	Louisiana	30.8703881	-92.007126
+location	Maryland	39.5162234	-76.9382069
+location	Michigan	42.120868	-85.526382
+location	Minnesota	45.9896587	-94.6113288
+location	Missouri	38.7604815	-92.5617875
+location	Montana	47.1219096	-104.6644933
+location	North Carolina	35.6729639	-79.0392919
+location	Nebraska	40.276199	-96.710805
+location	New Mexico	32.8684408	-108.5746086
+location	Nevada	39.5158825	-116.8537227
+location	New York City	42.6840289	-73.84800691
+location	Manhattan	40.7896239	-73.9598939
+location	Brooklyn	40.6501038	-73.9495823
+location	Queens	40.7498243	-73.7976337
+location	Nassau County	40.7430237	-73.56882215
+location	Rockland County	41.1519319	-74.0357266
+location	Greene County	42.2628769	-74.0878112
+location	Oneida County	43.2144051	-75.4039155
+location	Oregon	43.9792797	-120.737257
+location	Pennsylvania	39.9593026	-75.200498
+location	South Carolina	33.6874388	-80.4363743
+location	South Dakota	44.6471761	-100.348761
+location	Tennessee	35.1206029	-89.9392477
+location	Texas	29.8884765	-97.94479886
+location	Utah	37.6547917	-113.0856667
+location	Virginia	37.1232245	-78.4927721
+location	Wisconsin	44.4308975	-89.6884637
+location	Wyoming	41.145138	-104.7689332
+location	Ukraine	49.4871968	31.2718321
+location	United Arab Emirates	24.0002488	53.9994829
+location	Vietnam	13.2904027	108.4265113
+location	Wales	52.2928116	-3.73893
+location	Danbury	41.39508	-73.47529061
+location	New Haven	41.29843435	-72.93102343
+location	Old Saybrook	41.2917652	-72.3761956
+location	Clinton	41.2756115	-72.52853198
+location	Ivoryton	41.3485261	-72.4416552
+location	New Jersey	40.0757384	-74.4041622
+location	Westchester	41.1763139	-73.7907554
+location	Arkansas	33.9582866	-91.8401252
+location	New London	41.331256	-72.09643716
+location	Kings County	40.64530975	-73.95502303
+location	Tolland	41.8700166	-72.3677153
+location	Litchfield	41.747319	-73.1887243
+location	Windham	41.6993535	-72.1578243
+location	Fairfield	41.1412078	-73.2637258
+location	New haven	41.29843435	-72.93102343
+location	New london	41.331256	-72.09643716
+location	Norfolk	42.1195426	-71.3250564
+location	Hillsborough	43.1470788	-71.94574348
+location	Hampshire	42.3432499	-72.6213339
+location	Cumberland	43.7866027	-70.25318874
+location	Strafford	43.327176	-71.18454
+location	Franklin	42.358796	-71.0577937
+location	Bronx	40.8466508	-73.8785937
+location	Putnam	43.746793	-73.397255
+location	New York	43.1561681	-75.8449946
+location	Kings	43.1509069	-73.8542895
+location	Rockland	41.4117648	-72.6559273
+location	Austria	47.2	13.2
+location	Botswana	-23.1681782	24.5928742
+location	Brazil	-10.3333333	-53.2
+location	Cambodia	13.5066394	104.869423
+location	Alberta	55.001251	-115.002136
+location	Colombia	2.8894434	-73.783892
+location	Ecuador	-1.3397668	-79.3666965
+location	Iceland	64.9841821	-18.1059013
+location	India	22.3511148	78.6677428
+location	Ireland	52.865196	-7.9794599
+location	Latvia	56.8406494	24.7537645
+location	Lithuania	55.3500003	23.7499997
+location	Luxembourg	49.8158683	6.1296751
+location	Mozambique	-19.302233	34.9144977
+location	Philippines	12.7503486	122.7312101
+location	Puerto Rico	18.235853	-66.522056
+location	Slovakia	48.7411522	19.4528646
+location	Sweden	59.6749712	14.5208584
+location	Turkey	38.9597594	34.9249653
+location	Alabama	34.785415	-87.619021
+location	Washington DC	38.912708	-77.009223
+location	Kentucky	37.5726028	-85.1551411
+location	Ohio	41.8924345	-87.6277656
+location	Ithaca	42.4396039	-76.4968019
+location	Suffolk County	40.8832318	-72.8578027
+location	Staten Island	40.5834557	-74.1496048
+location	Erie County	42.7164263	-78.7620327
+location	Saratoga County	43.0833231	-73.8712155
+location	Dutchess County	41.7194303	-73.7516205
+location	Westchester County	41.1763139	-73.7907554
+location	New York County	40.7810178	-73.95929968
+location	Otsego County	42.5984272	-75.0142701
+location	Ulster County	41.8689317	-74.2618518
+location	Ontario County	42.8580624	-77.295025
+location	Onondaga County	43.015598	-76.2257127
+location	Niagara County	43.2042439	-78.7676017
+location	Rensselaer County	42.7091389	-73.5107732
+location	Steuben County	42.2359045	-77.3750862
+location	Chemung County	42.1384667	-76.7725493
+location	Albany County	42.5986896	-73.9843997
+location	Oklahoma	34.9550817	-97.2684063
+location	West Virginia	38.4758406	-80.8408415
+location	Uruguay	-32.8755548	-56.0201525
+location	Zambia	-14.5186239	27.5599164
+location	Nashua	42.7656251	-71.4677032
+location	Costa Rica	10.2735633	-84.0739102
+location	Czech Republic	49.8167003	15.4749544
+location	Ghana	8.0300284	-1.0800271
+location	Nigeria	9.6000359	7.9999721
+location	Romania	45.9852129	24.6859225
+location	Mississippi	33.4549304	-88.7859584
+location	Nassau	40.7189836	-73.60353801
+location	Rockingham	42.9966675	-71.1003143
+location	Cheshire	42.9525022	-72.2834412
+location	Dutchess	41.7194303	-73.7516205
+location	Oneida County NY	43.122889	-75.29521
+location	Warren County NY	43.7456696	-73.4972072
+location	Kings County NY	40.576127	-73.975939
+location	Allegany County NY	42.115147	-78.12783
+location	Fulton County NY	43.04993455	-74.34043681
+location	Montgomery County NY	42.9054281	-74.5804061
+location	Monroe County NY	43.1065875	-77.716104
+location	Columbia County NY	42.2217419	-73.8434841
+location	Broome	42.1455623	-75.8404114
+location	Montgomery	42.8941269	-74.4099745
+location	Croatia	45.5643442	17.0118954
+location	Mexico	22.5000485	-100.0000375
+location	Peru	-6.8699697	-75.0458515
+location	Slovenia	46.14903455	14.62632575
+location	North Dakota	46.87582885	-96.92812869
+location	Queens County	40.7099974	-73.7943239
+location	Palestine	31.94696655	35.27386547
+location	Serbia	44.1534121	20.55144
+location	Sint Maarten	52.7736657	4.7448352
+location	Northern Mariana Islands	14.1490205	145.2134525
+location	Zimbabwe	-19.01688	29.35365016
+location	Dominican Republic	19.28131815	-70.03590683
+location	Lesotho	-29.6039267	28.3350193
+location	Senegal	14.46517725	-14.76534096
+location	Hamilton County NY	43.7801807	-74.2255633
+location	Greece	38.9953683	21.9877132
+location	New Zealand	-41.5000831	172.8344077
+location	Panama	8.559559	-81.1308434
+location	Saudi Arabia	25.6242618	42.3528328
+location	Merrimack	43.3260376	-71.6854725
+location	"Middlesex, MA"	42.3959334	-71.1228363
+location	Bennington	43.0125713	-73.1473048
+location	Richmond	40.564209	-74.12530462
+location	Onondaga	43.015598	-76.2257127
+location	Angola	-11.8775768	17.5691241
+location	Antigua and Barbuda	17.2234721	-61.9554608
+location	Argentina	-34.9964963	-64.9672817
+location	Armenia	40.7696272	44.6736646
+location	Aruba	12.4902998	-69.9609842
+location	Bahamas	24.7736546	-78.0000547
+location	Barbados	13.1500331	-59.5250305
+location	Belize	16.8259793	-88.7600927
+location	Bermuda	32.3018217	-64.7603583
+location	Bulgaria	42.6073975	25.4856617
+location	Saskatchewan	55.5321257	-106.1412243
+location	Chile	-31.7613365	-71.3187697
+location	Cuba	23.0131338	-80.8328748
+location	Dominica	19.0974031	-70.3028026
+location	Eswatini	-26.5624806	31.3991317
+location	Guatemala	15.6356088	-89.8988087
+location	Guyana	4.8417097	-58.6416891
+location	Haiti	19.1399952	-72.3570972
+location	Honduras	15.2572432	-86.0755145
+location	Jamaica	18.1850507	-77.3947693
+location	Kenya	1.4419683	38.4313975
+location	Malawi	-13.2687204	33.9301963
+location	Paraguay	-23.3165935	-58.1693445
+location	Poland	52.215933	19.134422
+location	Qatar	25.3336984	51.2295295
+location	Saint Kitts and Nevis	17.250512	-62.6725973
+location	Saint Lucia	13.8250489	-60.975036
+location	Saint Martin	48.5683066	6.7539988
+location	Saint Vincent and the Grenadines	12.90447	-61.2765569
+location	Suriname	4.1413025	-56.0771187
+location	Trinidad and Tobago	10.8677845	-60.9821067
+location	Venezuela	8.0018709	-66.1109318
+location	US Virgin Islands	17.7289564	-64.75901598
+location	New London County	41.5300962	-72.0896919
+location	Fairfield County CT	41.1464965	-73.2486804
+location	Bonaire	12.167	-68.29096144
+location	Curacao	12.1845	-68.9640875
+location	Democratic Republic of the Congo	-2.9814344	23.8222636
+location	Niger	17.7356214	9.3238432
+location	South Sudan	7.8699431	29.6667897
+location	Hartford County	41.681396	-72.9757746
+location	Uganda	1.5333554	32.2166578
+location	Gibraltar	51.791921	-0.9022301
+location	Guadeloupe	16.23051025	-61.68712602
+location	Guam	13.4501257	144.757551
+location	Pakistan	30.3308401	71.247499
+location	Togo	8.7800265	1.0199765
+location	New Haven County	41.3086005	-72.8961003
+location	Norfolk County	42.1635682	-71.0464223
+location	Suffolk County NY	40.861636	-72.515976
+location	Virgin Islands	17.727304	-64.748327
+location	Santo Domingo	18.4801972	-69.942111
+location	St. Thomas	18.34290815	-64.91889970060265
+location	St. Croix	17.7289564	-64.75901597858353
+location	Guaynabo	18.3581491	-66.1116969
+location	Humacao	18.138073849999998	-65.81963689761
+location	Caguas	18.2345399	-66.0351316
+location	San Juan	18.465299	-66.116666
+location	San Lorenzo	18.1524948	-65.97563436136883
+location	Toa Baja	18.432654	-66.21260602081739
+location	SanJuan	-30.8572346	-64.9906686
+location	Gurabo	18.2555647	-65.9723799
+location	Vieques	18.1215622	-65.45746403129988
+location	Manati	18.4271372	-66.4929477
+location	Trujillo Alto	18.33707575	-66.00174210279962
+location	Bayamon	18.344958249999998	-66.16837400269127
+location	Loiza	18.41926485	-65.88101409367987
+location	Toa Alta	18.3887052	-66.247968
+location	Ponce	18.011564	-66.613958
+location	Barranquitas	18.1858457	-66.3065562
+location	Las Piedras	18.1828165	-65.868574
+location	Rincon	18.3396565	-67.2506517
+location	Las Marias	18.2522446	-66.9918133
+location	Dorado	18.4587209	-66.2677506
+location	Rio Grande	18.3808734	-65.8298549
+location	Hatillo	18.48030875	-66.82254739448042
+location	Arecibo	18.4702985	-66.7190726
+location	Lajas	18.0533063	-67.05632995677541
+location	Luanda	-8.8272699	13.2439512
+location	Buenos Aires	-34.6075682	-58.4370894
+location	Western Australia	-25.2303005	121.0187246
+location	Roeselare	50.9444948	3.124765
+location	Canada	61.0666922	-107.991707
+location	Antofagasta	-23.6463741	-70.3980033
+location	Auvergne-Rhône-Alpes	45.2968119	4.6604809
+location	Hauts de France	50.1024606	2.7247515
+location	Ile de France	48.6443057	2.7537863
+location	Schoelcher	14.6169451	-61.1004559
+location	Occitanie	43.6487851	2.3435684
+location	Provence-Alpes-Côte d'Azur	44.0580563	6.0638506
+location	Sainte-Anne	16.225685	-61.3859128
+location	Les Abymes	16.2706436	-61.5057749
+location	Basse-Terre	16.0000778	-61.7333373
+location	Métropole	7.0482412	125.5389122
+location	Saint-François	16.2532002	-61.2750706
+location	Morne À l'Eau	16.3311175	-61.4579237
+location	Baie-Mahault	16.2679458	-61.5870766
+location	Lamentin	16.2703423	-61.6303025
+location	Sainte-Rose	16.3327353	-61.698147
+location	Le Gosier	16.2072112	-61.4931309
+location	Trois-Rivières	15.9767433	-61.6441603
+location	Le Moule	16.3316709	-61.3476233
+location	Vieux Habitants	16.0593271	-61.7636981
+location	Pointe-A-Pitre	16.2408636	-61.5334077
+location	Fort-de-France	14.6027962	-61.0676724
+location	Le Lamentin	14.614557	-61.0018145
+location	Le Lorrain	14.8326715	-61.0554208
+location	Aguascalientes	22.0000001	-102.5000001
+location	Friesland	53.0923689	5.777043
+location	Gelderland	52.1014041	5.9515701
+location	North Holland	52.7212825	4.820665
+location	Overijssel	52.4254143	6.4610611
+location	South Holland	51.9966792	4.5597397
+location	St Eustatius	17.4865252	-62.9653116
+location	Zilina	49.2234674	18.7393139
+location	Connecticut	41.6500201	-72.7342163
+location	Massachusetts	42.358796	-71.0577937
+location	Maine	45.709097	-68.8590201
+location	French Guiana	4.0039882	-52.999998
+location	Florida (PR)	18.364360	-66.561222
+location	Carolina	18.3794415	-65.957695
+location	Maunabo	18.0073443	-65.8995484
+location	Medellin	-11.6012254	-67.9830387
+location	Ensenada	18.3493541	-67.2509295
+location	Manatí	18.4271372	-66.4929477
+location	Mayaguez	18.2011161	-67.1391124
+location	Juana Díaz	18.0530354	-66.5058763
+location	Juncos	18.206697149999997	-65.91398038457521
+location	Victoria	-36.5986096	144.6780052
+location	Beijing	39.906217	116.3912757
+location	Kasane	-17.799239	25.156546
+location	Willemstad	12.110006949999999	-68.9370850600204
+location	Normandie	49.0677708	0.3138532
+location	La Trinité	14.7553161	-61.02872263178628
+location	Baja California	30.0338923	-115.1425107
+location	Maputo	-25.966213	32.56745
+location	Groningen	53.2190652	6.5680077
+location	North Brabant	51.6017723	5.4441391
+location	Utrecht	52.080985600000005	5.12768396945229
+location	Réunion	-21.130737949999997	55.536480112992315
+location	Sint Eustatius	17.4865252	-62.9653116
+location	Podravska	46.4809178	15.745088519392077
+location	Turks and Caicos	21.7214683	-71.6201783
+location	New Hampshire	43.4849133	-71.6553992
+location	San Juan PR	18.426298	-66.0243294
+location	Middlesex, MA	42.3959334	-71.1228363
+location	Anguilla	18.1954947	-63.0750234
+location	British Virgin Islands	18.4024395	-64.5661642
+location	Cayman Islands	19.703182249999998	-79.9174627243246
+location	Grenada	12.1360374	-61.6904045
+location	Montserrat	16.7417041	-62.1916844
+location	Bronx County	40.8466508	-73.8785937
+

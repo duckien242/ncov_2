@@ -1,0 +1,40 @@
+clade	gene	site	alt
+A	ORF8	84	S
+
+B.1	ORF1b	314	L
+
+Alpha	ORF1a	1001	I
+Alpha	ORF1a	2230	T
+Alpha	S	982	A
+
+Gamma	N	80	R
+Gamma	ORF1a	1188	L
+Gamma	ORF1b	1264	D
+Gamma	S	501	Y
+
+Delta	M	82	T
+Delta	N	63	G
+Delta	ORF7a	120	I
+Delta	ORF9b	60	A
+Delta	S	19	R
+Delta	S	681	R
+Delta	N	63	G
+Delta	S	19	R
+Delta	ORF3a	26	L
+
+Iota	ORF8	11	I
+Iota	S	95	I
+Iota	nuc	21846	T
+
+Mu	N	205	I
+Mu	ORF1a	1055	A
+Mu	ORF1b	1342	S
+
+Omicron	E	9	I
+Omicron	S	67	V
+Omicron	S	375	F
+Omicron	S	954	H
+Omicron	ORF1a	856	R
+Omicron	ORF1a	2710	T
+Omicron	ORF1a	3395	H
+Omicron	ORF1a	3758	V

@@ -1,0 +1,76 @@
+purpose	filter	value	filter2	value2	sample_size	start	end
+context	country_exposure	Belize			1		2020-08-30
+context	country_exposure	Belize			20	2020-09-01	
+context	country_exposure	Canada			5	2020-09-01	
+context	country_exposure	Guatemala			1		2020-08-30
+context	country_exposure	Guatemala			20	2020-09-01	
+context	country_exposure	Honduras			1		2020-08-30
+context	country_exposure	Honduras			20	2020-09-01	
+context	country_exposure	Mexico			1		2020-08-30
+context	country_exposure	Mexico			40	2020-09-01	
+context	country_exposure	Panama			1		2020-08-30
+context	country_exposure	Panama			20	2020-09-01	
+context	country_exposure	USA			15	2020-09-01	
+context	country_exposure	Venezuela			1		2020-08-30
+context	country_exposure	Venezuela			20	2020-09-01	
+context	pango_lineage	B.1.1.28			10	2020-09-01	
+context	pango_lineage	B.1.1.7			10	2020-09-01	
+context	pango_lineage	B.1.351			10	2020-09-01	
+context	pango_lineage	B.1.375			10	2020-09-01	
+context	pango_lineage	B.1.429			10	2020-09-01	
+context	pango_lineage	B.1.525			10	2020-09-01	
+context	pango_lineage	B.1.526			10	2020-09-01	
+context	pango_lineage	P.1			10	2020-09-01	
+context	region_exposure	Asia			1		2020-08-30
+context	region_exposure	Asia			1	2020-09-01	
+context	region_exposure	Europe			5		2020-08-30
+context	region_exposure	Europe			5	2020-09-01	
+context	region_exposure	North America			10		2020-08-30
+context	region_exposure	North America			20	2020-09-01	
+context	region_exposure	South America			20	2020-09-01	
+context	region_exposure	South America			10		2020-08-30
+focus	country_exposure	Antigua and Barbuda			9999	2020-01-01	
+focus	country_exposure	Bahamas			9999	2020-01-01	
+focus	country_exposure	Barbados			9999	2020-01-01	
+focus	country_exposure	Bermuda			9999	2020-01-01	
+focus	country_exposure	Bonaire			9999	2020-01-01	
+focus	country_exposure	Colombia			10		2020-08-30
+focus	country_exposure	Colombia			20	2020-09-01	
+focus	country_exposure	Costa Rica			5		2020-08-30
+focus	country_exposure	Costa Rica			10	2020-09-01	
+focus	country_exposure	Cuba			9999	2020-01-01	
+focus	country_exposure	Curacao			9999	2020-01-01	
+focus	country_exposure	Dominica			9999	2020-01-01	
+focus	country_exposure	Dominican Republic			9999	2020-01-01	
+focus	country_exposure	El Salvador			5		2020-08-30
+focus	country_exposure	El Salvador			10	2020-09-01	
+focus	country_exposure	Grenada			9999	2020-01-01	
+focus	country_exposure	Guadeloupe			9999	2020-01-01	
+focus	country_exposure	Guyana			20		2020-08-30
+focus	country_exposure	Guyana			100	2020-09-01	
+focus	country_exposure	Haiti			9999	2020-01-01	
+focus	country_exposure	Jamaica			9999	2020-01-01	
+focus	country_exposure	Saint Barthelemy			9999	2020-01-01	
+focus	country_exposure	Saint Kitts and Nevis			9999	2020-01-01	
+focus	country_exposure	Saint Lucia			9999	2020-01-01	
+focus	country_exposure	Saint Martin			9999	2020-01-01	
+focus	country_exposure	Saint Vincent and the Grenadines			9999	2020-01-01	
+focus	country_exposure	Sint Maarten			9999	2020-01-01	
+focus	country_exposure	Suriname			50		2020-08-30
+focus	country_exposure	Suriname			100	2020-09-01	
+focus	country_exposure	Trinidad and Tobago			9999	2020-01-01	
+focus	division	Anguilla			9999	2020-01-01	
+focus	division	British Virgin Islands			9999	2020-01-01	
+focus	division	Cayman Islands			9999	2020-01-01	
+focus	division	French Guiana			9999	2020-01-01	
+focus	division	Martinique			9999	2020-01-01	
+focus	division	Montserrat			9999	2020-01-01	
+focus	division	Puerto Rico			9999	2020-01-01	
+focus	division	Saint Barthelemy			9999	2020-01-01	
+focus	division	Sint Eustatius			9999	2020-01-01	
+focus	division	St Eustatius			9999	2020-01-01	
+focus	division	Turks and Caicos Islands			9999	2020-01-01	
+focus	division	Virgin Islands			9999	2020-01-01	
+ignore	country_exposure	Bangladesh			0		
+ignore	country_exposure	India			0		
+ignore	country_exposure	Saudi Arabia			0		
